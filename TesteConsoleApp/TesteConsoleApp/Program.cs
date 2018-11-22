@@ -6,7 +6,7 @@ namespace TesteConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste Deploy com GitHub");
             Console.ReadKey();
         }
     }
